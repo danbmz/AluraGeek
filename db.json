@@ -1,0 +1,19 @@
+{
+    "perfil": [
+      {
+        "nombre": "El Mono",
+        "email": "masestupido@gmail.com",
+        "id": 4
+      },
+      {
+        "nombre": "Olaf",
+        "email": "olafierro@gmail.com",
+        "id": 5
+      },
+      {
+        "nombre": "Carlos",
+        "email": "Norola@gmail.com",
+        "id": 6
+      }
+    ]
+  }

@@ -1,0 +1,42 @@
+.header{
+    /* background-color: aquamarine; */
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-between ;
+}
+.header__container--logo{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo_alura{
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+}
+.search__input{
+    width: 280px;
+    padding: .8rem;
+    border-radius: 25px;
+    outline: none;
+    background-color:#ECEBED;
+}
+.header__container--login{
+    display: flex;
+    align-items: center;
+}
+.login__button{
+    width: 150px;
+    height: 41px;
+    color: #2A7AE4;
+    border: 1px solid #2A7AE4;
+    background-color: white;
+    cursor: pointer;
+}
+/* //////////////////////////////////// */
+.banner__encabezado{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}

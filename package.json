@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "AluraGeek",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/danbmz"
+  },
+  "keywords": [
+    "AluraGeek"
+  ],
+  "author": "Dan Bermudez",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
