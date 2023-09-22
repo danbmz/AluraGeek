@@ -1,10 +1,11 @@
 .header{
-    /* background-color: aquamarine; */
+    background-color: white;
     padding: 1rem 0;
     display: flex;
     justify-content: space-between ;
 }
 .header__container--logo{
+    margin-left: 5rem;
     width: 500px;
     display: flex;
     align-items: center;
@@ -25,6 +26,7 @@
 .header__container--login{
     display: flex;
     align-items: center;
+    margin-right: 5rem;
 }
 .login__button{
     width: 150px;
@@ -35,8 +37,3 @@
     cursor: pointer;
 }
 /* //////////////////////////////////// */
-.banner__encabezado{
-    position: absolute;
-    top: 250px;
-    left: 100px;
-}

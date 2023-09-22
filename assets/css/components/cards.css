@@ -1,0 +1,28 @@
+.cards__container{
+    display: flex;
+    flex-direction: column;
+}
+.cards__encabezado{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cards__ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    list-style: none;
+    background-color: white;
+    box-shadow: 1px 2px 7px rgba(0, 0, 0, 0.3);
+}
+.cards__img{
+    width: 174px;
+    height: 176px;
+}
+.cards:hover{
+    transform: scale(1.1);
+}

@@ -1,3 +1,4 @@
+/* ////////////Generales////////// */
 .titulos{
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -9,4 +10,38 @@
     font-size: 1.5rem;
     font-weight: lighter;
     padding-bottom: 15px;
+}
+/* ////////////Seccion de productos principal//////////// */
+
+.cards__titulo{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;   
+}
+.cards__verTodo{
+    color: #2A7AE4;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.cards__titulo-producto{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    padding-left: 5px;
+}
+.cards__precio{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    padding-left: 5px;
+}
+.cards__subtitulo-producto{
+    color: #2A7AE4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-bottom: 5px;
 }
