@@ -12,12 +12,13 @@
     justify-content: space-evenly;
 }
 .cards{
+    width: 174px;
     display: flex;
     flex-direction: column;
-    gap: .5rem;
     list-style: none;
     background-color: white;
     box-shadow: 1px 2px 7px rgba(0, 0, 0, 0.3);
+    position: relative;
 }
 .cards__img{
     width: 174px;
