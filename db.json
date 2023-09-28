@@ -1,19 +1,25 @@
 {
-    "perfil": [
+    "Productos": [
       {
-        "nombre": "El Mono",
-        "email": "masestupido@gmail.com",
-        "id": 4
+        "url": "https://www.pinterest.com.mx/pin/1030831802187839638/",
+        "categoria": "consolas",
+        "nombre": "Xbox SS",
+        "precio": "$200.00",
+        "id": 1
       },
       {
-        "nombre": "Olaf",
-        "email": "olafierro@gmail.com",
-        "id": 5
+        "url": "https://www.pinterest.com.mx/pin/1087267535018813482/",
+        "categoria": "consolas",
+        "nombre": "Xbox SX",
+        "precio": "@300.00",
+        "id": 2
       },
       {
-        "nombre": "Carlos",
-        "email": "Norola@gmail.com",
-        "id": 6
+        "url": "https://www.pinterest.com.mx/pin/305048574778054690/",
+        "categoria": "consolas",
+        "nombre": "Play V",
+        "precio": "$350.00",
+        "id": 3
       }
     ]
   }

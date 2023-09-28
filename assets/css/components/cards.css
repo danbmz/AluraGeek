@@ -11,7 +11,7 @@
     display: flex;
     justify-content: space-evenly;
 }
-.cards{
+li{
     width: 174px;
     display: flex;
     flex-direction: column;

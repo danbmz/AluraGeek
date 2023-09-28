@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="/assets/css/base/container.css">
     <link rel="stylesheet" href="/assets/css/1_header.css">
     <link rel="stylesheet" href="/assets/css/4_footer.css">
-    <link rel="stylesheet" href="/assets/css/components/products/addProducts.css">
     <link rel="stylesheet" href="/assets/css/components/login/login.css">
     <link rel="stylesheet" href="/assets/css/components/titulos_subtitulos.css">
     <link rel="stylesheet" href="/assets/css/components/botones.css">
@@ -34,12 +33,7 @@
                 <h2 class="login__titulo">Agregar Nuevo Producto</h2>
                 <form action="" class="form" data-form>
                     <input type="text" placeholder="URL de la imagen" required class="form__input" data-url>
-                    <label for="categorias" class="label__cat">Selecciona una categoria:</label>
-                    <select id="categorias" class="form__input" data-categoria>
-                        <option value="opcion1">Star-Wars</option>
-                        <option value="opcion2">Consolas</option>
-                        <option value="opcion3">Celulares</option>
-                    </select>   
+                    <input type="text" placeholder="Categoría" required class="form__input" data-categoria>
                     <input type="text" placeholder="Nombre del producto" required class="form__input" data-nombre>
                     <input type="text" placeholder="Precio del producto" required class="form__input" data-precio>
                     <button type="submit" class="logBtn">Agregar producto</button>
