@@ -10,6 +10,8 @@
 .cards__ul{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
+    row-gap: 20px;
 }
 li{
     width: 174px;
@@ -23,6 +25,9 @@ li{
 .cards__img{
     width: 174px;
     height: 176px;
+}
+.cards{
+    justify-content: space-between;
 }
 .cards:hover{
     transform: scale(1.1);
