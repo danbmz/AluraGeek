@@ -9,9 +9,9 @@
 }
 .cards__ul{
     display: flex;
-    justify-content: space-evenly;
+    justify-content:flex-start;
     flex-wrap: wrap;
-    row-gap: 20px;
+    gap: 10px;
 }
 li{
     width: 174px;
@@ -30,5 +30,5 @@ li{
     justify-content: space-between;
 }
 .cards:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
 }

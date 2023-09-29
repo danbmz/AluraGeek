@@ -1,3 +1,67 @@
 {
-  "Productos": []
+  "Productos": [
+    {
+      "link": "https://i.pinimg.com/564x/e7/a8/73/e7a873dbd787994c656a42fceb48103c.jpg",
+      "categoria": "Star-Wars",
+      "nombre": "Kit de cocina",
+      "precio": "$200",
+      "id": 1
+    },
+    {
+      "link": "https://i.pinimg.com/564x/a7/f9/ff/a7f9ffdfb0da79029e6e4ac4e964dfc8.jpg",
+      "categoria": "Star-Wars",
+      "nombre": "Bote de basura",
+      "precio": "$250",
+      "id": 2
+    },
+    {
+      "link": "https://i.pinimg.com/564x/ba/64/98/ba6498ab2e5bc464db3829d577614674.jpg",
+      "categoria": "Star-Wars",
+      "nombre": "Cafetera",
+      "precio": "$200",
+      "id": 3
+    },
+    {
+      "link": "https://i.pinimg.com/564x/6e/5f/58/6e5f582499e5ad181818ff9b264a21e8.jpg",
+      "categoria": "Consolas",
+      "nombre": "Xbox SS",
+      "precio": "$5000",
+      "id": 4
+    },
+    {
+      "link": "https://i.pinimg.com/564x/5c/1b/3f/5c1b3fb0a3d253d4eb344682affa98ba.jpg",
+      "categoria": "Consolas",
+      "nombre": "Kit Play 5",
+      "precio": "$12,000",
+      "id": 5
+    },
+    {
+      "link": "https://i.pinimg.com/564x/82/20/80/82208044cc63e95c7a718057dff69153.jpg",
+      "categoria": "Consolas",
+      "nombre": "Xbox SX",
+      "precio": "$11,000",
+      "id": 6
+    },
+    {
+      "link": "https://i.pinimg.com/564x/7e/73/a6/7e73a6b8ef5d2d10945161547e6f7e14.jpg",
+      "categoria": "Celulares",
+      "nombre": "Samsumg Galaxy S20",
+      "precio": "$3,000",
+      "id": 7
+    },
+    {
+      "link": "https://i.pinimg.com/564x/8b/06/29/8b062905bcd44b0d9164b46cc309a251.jpg",
+      "categoria": "Celulares",
+      "nombre": "iPhone 14",
+      "precio": "$15,000",
+      "id": 8
+    },
+    {
+      "link": "https://i.pinimg.com/564x/57/db/7d/57db7dd4f1f76328eb69e7a660d08c8d.jpg",
+      "categoria": "Celulares",
+      "nombre": "Google Pixel 7Pro",
+      "precio": "$10,000",
+      "id": 9
+    }
+  ]
 }
